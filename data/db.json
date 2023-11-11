@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "4th Gen Screams",
+      "body": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:",
+      "likes": 30
+    },
+    {
+      "id": 3,
+      "title": "BTS paved the way?",
+      "body": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:",
+      "likes": 20
+    },
+    {
+      "title": "Rich Kpop Fans",
+      "body": "Lorem ipsum dolor sit amet. Aut voluptates voluptate est voluptatibus deleniti ut temporibus molestias est esse minus qui voluptatem cumque ut modi deleniti. Qui omnis unde eos nulla nostrum sed quos velit ad voluptate autem. Eum nulla sapiente vel iste sunt non quos modi 33 ducimus nesciunt ut odio fuga. Est obcaecati molestiae quo asperiores dolorem in accusamus sunt est cupiditate consequatur sed dolores cupiditate et officiis perspiciatis quo consequatur voluptatem.",
+      "likes": 0,
+      "id": 4
+    }
+  ]
+}
